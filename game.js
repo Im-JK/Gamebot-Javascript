@@ -27,4 +27,4 @@ client.on("message", (message) => {
         client.commands.get(command).execute(message, args, prefix);
     }
 })
-client.login('NzY1ODA4NDMwMjI5MDk0NDEy.X4aMrQ.rgoLVJx6t2YX1W3EfJLPD0IkdXY');
+client.login('Hidden');
